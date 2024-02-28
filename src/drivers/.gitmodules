@@ -1,0 +1,18 @@
+[submodule "BAROdriver"]
+	path = BAROdriver
+	url = https://github.com/RazRabino/Raspberry-Pi-Pico-BMP388-Barometer-Driver
+[submodule "GPSdriver"]
+	path = GPSdriver
+	url = https://github.com/RazRabino/Raspberry-Pi-Pico-GPS-Driver
+[submodule "IMUdriver"]
+	path = IMUdriver
+	url = https://github.com/RazRabino/Raspberry-Pi-Pico-BNO055-IMU-Driver
+[submodule "RXTXdriver"]
+	path = RXTXdriver
+	url = https://github.com/RazRabino/Raspberry-Pi-Pico-RXTX-Driver
+[submodule "RXTXdriver"]
+	path = RXTXdriver
+	url = https://github.com/RazRabino/Raspberry-Pi-Pico-RXTX-Driver
+[submodule "SERVOdriver"]
+	path = SERVOdriver
+	url = https://github.com/RazRabino/Raspberry-Pi-Pico-Servo-Driver
